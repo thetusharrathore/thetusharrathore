@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Tushar%20Rathore&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" alt="Tushar Rathore banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Tushar%20Rathore&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" alt="Tushar Singh banner" />
 
   <h1>Hi, I'm Tushar 👋</h1>
   <p><strong>Data Scientist • AI Engineer • Computer Vision Practitioner • Full-Stack Developer</strong></p>
