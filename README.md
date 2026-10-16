@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Tushar%20Rathore&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" alt="Decorative profile header for Tushar Rathore" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Tushar%20Rathore&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" alt="Tushar Rathore banner" />
 
   <h1>Hi, I'm Tushar 👋</h1>
-  <p><strong>Data Scientist • AI Engineer • Computer Vision Practitioner</strong></p>
+  <p><strong>Data Scientist • AI Engineer • Computer Vision Practitioner • Full-Stack Developer</strong></p>
 </div>
 
 ## About
 
-I build intelligent systems using machine learning, deep learning, and LLM-based workflows. My current focus includes multi-agent AI systems, retrieval-augmented generation (RAG), and computer vision applications.
+I build intelligent systems using machine learning, deep learning, LLM-based workflows, and modern web technologies. My current focus includes multi-agent AI systems, retrieval-augmented generation (RAG), computer vision, and full-stack applications.
 
 ## What I Work On
 
@@ -15,14 +15,18 @@ I build intelligent systems using machine learning, deep learning, and LLM-based
 - **LLM + RAG applications** for context-aware AI solutions
 - **Machine learning and deep learning** model development
 - **Computer vision** for object detection, segmentation, and video analytics
+- **Full-stack web applications** with responsive and user-friendly interfaces
+- **Backend and database solutions** using Supabase and modern APIs
 
 ## Tech Stack
 
-- **Languages & Core:** Python, SQL
+- **Languages & Core:** Python, SQL, TypeScript, JavaScript
+- **Frontend:** HTML, CSS, React, responsive web design
 - **ML/DL:** TensorFlow, PyTorch, scikit-learn, Keras, XGBoost
 - **LLMs & Agents:** LangChain, LangGraph, CrewAI, OpenAI, Hugging Face, Ollama
 - **Data & Vector:** Pandas, NumPy, Matplotlib, FAISS, ChromaDB, Pinecone
-- **Tools & Platforms:** Git, GitHub, Docker, Jupyter, VS Code, MongoDB, MySQL
+- **Backend & Databases:** Supabase, MongoDB, MySQL
+- **Tools & Platforms:** Git, GitHub, Docker, Jupyter, VS Code
 
 ## GitHub Overview
 
@@ -35,7 +39,7 @@ I build intelligent systems using machine learning, deep learning, and LLM-based
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tushar-singh-1ba975296/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
-  <a href="https://x.com/_tusharrathore"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter) profile" /></a>
+  <a href="https://x.com/_tusharrathore"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X profile" /></a>
   <a href="https://github.com/thetusharrathore"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 </div>
 
